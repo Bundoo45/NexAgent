@@ -1,2 +1,2 @@
-# agentsphere
-The AI Agent Marketplace built for the Unicity ecosystem.
+# nexagent
+Discover, verify, and deploy trusted AI agents on the Unicity ecosystem.
